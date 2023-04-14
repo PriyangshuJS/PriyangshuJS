@@ -35,8 +35,8 @@
 	<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=PriyangshuJS&theme=vue" /><br>
 	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyangshujs&show_icons=true&locale=en&layout=compact" alt="priyangshujs" />
 	
-	<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-</p><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+	
+</p><br><br><br><br><br><br><br>
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PriyangshuJS&theme=radical&no-frame=true&no-bg=false&margin-w=4)
