@@ -31,9 +31,9 @@
 
 ## 📟 GitHub Stats
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=PriyangshuJS&show_icons=true&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=PriyangshuJS&theme=vue" />
-	<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyangshujs&show_icons=true&locale=en&layout=compact" alt="priyangshujs" />
+	<img align="left" src="https://github-readme-stats.vercel.app/api?username=PriyangshuJS&show_icons=true&theme=vue" />
+	<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=PriyangshuJS&theme=vue" />
+	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyangshujs&show_icons=true&locale=en&layout=compact" alt="priyangshujs" />
 </p>
 
 
