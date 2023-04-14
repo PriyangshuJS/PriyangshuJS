@@ -37,7 +37,7 @@
 </p>
 
 
- <hr>
+<br>
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Debajyoti14&theme=radical&no-frame=true&no-bg=false&margin-w=4)
