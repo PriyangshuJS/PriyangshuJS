@@ -1,4 +1,4 @@
-<img src="/GitHubCover.png"/>
+
 
 # 💫About Me :
 
