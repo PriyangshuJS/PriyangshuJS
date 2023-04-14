@@ -33,11 +33,7 @@
 <p align="center">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=PriyangshuJS&show_icons=true&theme=vue" />
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=PriyangshuJS&theme=vue" />
-</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyangshujs&show_icons=true&locale=en&layout=compact" alt="priyangshujs" /></p>
 
